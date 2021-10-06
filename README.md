@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @girish90
 - 👀 I’m interested in PHP, Laravel, Codeigniter, HTML, CSS, Javascript, Jquery
 - 🌱 I’m currently learning Front End Technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 girish90/girish90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
