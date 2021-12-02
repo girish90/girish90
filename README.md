@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @girish90
 - 👀 I’m interested in PHP, Laravel, Codeigniter, HTML, CSS, Javascript, Jquery, DSA
-- 🌱 I’m currently working as PHP developer
+- 🌱 I’m currently working as Software Developer
 
 <!---
 girish90/girish90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
